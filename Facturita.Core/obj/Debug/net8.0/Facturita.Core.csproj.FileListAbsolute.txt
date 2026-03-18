@@ -1,0 +1,12 @@
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/Facturita.Core/bin/Debug/net8.0/Facturita.Core.deps.json
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/Facturita.Core/bin/Debug/net8.0/Facturita.Core.dll
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/Facturita.Core/bin/Debug/net8.0/Facturita.Core.pdb
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/Facturita.Core/obj/Debug/net8.0/Facturita.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/Facturita.Core/obj/Debug/net8.0/Facturita.Core.AssemblyInfoInputs.cache
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/Facturita.Core/obj/Debug/net8.0/Facturita.Core.AssemblyInfo.cs
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/Facturita.Core/obj/Debug/net8.0/Facturita.Core.csproj.CoreCompileInputs.cache
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/Facturita.Core/obj/Debug/net8.0/Facturita.Core.sourcelink.json
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/Facturita.Core/obj/Debug/net8.0/Facturita.Core.dll
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/Facturita.Core/obj/Debug/net8.0/refint/Facturita.Core.dll
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/Facturita.Core/obj/Debug/net8.0/Facturita.Core.pdb
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/Facturita.Core/obj/Debug/net8.0/ref/Facturita.Core.dll

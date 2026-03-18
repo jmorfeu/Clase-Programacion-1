@@ -1,0 +1,14 @@
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/POO_Pilares/bin/Debug/net8.0/POO_Pilares
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/POO_Pilares/bin/Debug/net8.0/POO_Pilares.deps.json
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/POO_Pilares/bin/Debug/net8.0/POO_Pilares.runtimeconfig.json
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/POO_Pilares/bin/Debug/net8.0/POO_Pilares.dll
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/POO_Pilares/bin/Debug/net8.0/POO_Pilares.pdb
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/POO_Pilares/obj/Debug/net8.0/POO_Pilares.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/POO_Pilares/obj/Debug/net8.0/POO_Pilares.AssemblyInfoInputs.cache
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/POO_Pilares/obj/Debug/net8.0/POO_Pilares.AssemblyInfo.cs
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/POO_Pilares/obj/Debug/net8.0/POO_Pilares.csproj.CoreCompileInputs.cache
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/POO_Pilares/obj/Debug/net8.0/POO_Pilares.dll
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/POO_Pilares/obj/Debug/net8.0/refint/POO_Pilares.dll
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/POO_Pilares/obj/Debug/net8.0/POO_Pilares.pdb
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/POO_Pilares/obj/Debug/net8.0/POO_Pilares.genruntimeconfig.cache
+/Users/joerlynmorfe/programacion_1/Programacion_I_2/POO_Pilares/obj/Debug/net8.0/ref/POO_Pilares.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "POO_Pilares/1.0.0": {
+        "runtime": {
+          "POO_Pilares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POO_Pilares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

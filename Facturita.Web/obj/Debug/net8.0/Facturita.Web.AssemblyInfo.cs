@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Facturita.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcb8f4e7d9cf0fcd9978ac70ee5a31547a71efcf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e64335fa7e2040ded60c4c691eb4c6fcc6503621")]
 [assembly: System.Reflection.AssemblyProductAttribute("Facturita.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Facturita.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

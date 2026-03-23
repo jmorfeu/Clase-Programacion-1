@@ -16,3 +16,21 @@
 /Users/joerlynmorfe/programacion_1/Programacion_I_2/Facturita.DAL/obj/Debug/net8.0/Facturita.DAL.pdb
 /Users/joerlynmorfe/programacion_1/Programacion_I_2/Facturita.DAL/obj/Debug/net8.0/Facturita.DAL.genruntimeconfig.cache
 /Users/joerlynmorfe/programacion_1/Programacion_I_2/Facturita.DAL/obj/Debug/net8.0/ref/Facturita.DAL.dll
+C:\Users\victo\OneDrive\Documents\Programs\clase\Programacion I\Clase-Programacion-1\Facturita.DAL\bin\Debug\net8.0\Facturita.DAL.deps.json
+C:\Users\victo\OneDrive\Documents\Programs\clase\Programacion I\Clase-Programacion-1\Facturita.DAL\bin\Debug\net8.0\Facturita.DAL.runtimeconfig.json
+C:\Users\victo\OneDrive\Documents\Programs\clase\Programacion I\Clase-Programacion-1\Facturita.DAL\bin\Debug\net8.0\Facturita.DAL.dll
+C:\Users\victo\OneDrive\Documents\Programs\clase\Programacion I\Clase-Programacion-1\Facturita.DAL\bin\Debug\net8.0\Facturita.DAL.pdb
+C:\Users\victo\OneDrive\Documents\Programs\clase\Programacion I\Clase-Programacion-1\Facturita.DAL\bin\Debug\net8.0\Facturita.Core.dll
+C:\Users\victo\OneDrive\Documents\Programs\clase\Programacion I\Clase-Programacion-1\Facturita.DAL\bin\Debug\net8.0\Facturita.Core.pdb
+C:\Users\victo\OneDrive\Documents\Programs\clase\Programacion I\Clase-Programacion-1\Facturita.DAL\obj\Debug\net8.0\Facturita.DAL.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Documents\Programs\clase\Programacion I\Clase-Programacion-1\Facturita.DAL\obj\Debug\net8.0\Facturita.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Documents\Programs\clase\Programacion I\Clase-Programacion-1\Facturita.DAL\obj\Debug\net8.0\Facturita.DAL.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documents\Programs\clase\Programacion I\Clase-Programacion-1\Facturita.DAL\obj\Debug\net8.0\Facturita.DAL.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documents\Programs\clase\Programacion I\Clase-Programacion-1\Facturita.DAL\obj\Debug\net8.0\Facturita.DAL.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documents\Programs\clase\Programacion I\Clase-Programacion-1\Facturita.DAL\obj\Debug\net8.0\Facturita.DAL.sourcelink.json
+C:\Users\victo\OneDrive\Documents\Programs\clase\Programacion I\Clase-Programacion-1\Facturita.DAL\obj\Debug\net8.0\Facturit.1749B750.Up2Date
+C:\Users\victo\OneDrive\Documents\Programs\clase\Programacion I\Clase-Programacion-1\Facturita.DAL\obj\Debug\net8.0\Facturita.DAL.dll
+C:\Users\victo\OneDrive\Documents\Programs\clase\Programacion I\Clase-Programacion-1\Facturita.DAL\obj\Debug\net8.0\refint\Facturita.DAL.dll
+C:\Users\victo\OneDrive\Documents\Programs\clase\Programacion I\Clase-Programacion-1\Facturita.DAL\obj\Debug\net8.0\Facturita.DAL.pdb
+C:\Users\victo\OneDrive\Documents\Programs\clase\Programacion I\Clase-Programacion-1\Facturita.DAL\obj\Debug\net8.0\Facturita.DAL.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Documents\Programs\clase\Programacion I\Clase-Programacion-1\Facturita.DAL\obj\Debug\net8.0\ref\Facturita.DAL.dll

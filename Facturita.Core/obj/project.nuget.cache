@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "c+d+nAWlEHH5s+1M4IifCTe4C8HGP49YKhS95vDlqExTZr82OgpewMGrtr41y8huknGqwvm+5SjzoCjdX9gP8w==",
+  "dgSpecHash": "Lc/EUtCq52Q=",
   "success": true,
-  "projectFilePath": "/Users/joerlynmorfe/programacion_1/Programacion_I_2/Facturita.Core/Facturita.Core.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\victo\\OneDrive\\Documents\\Programs\\clase\\Programacion I\\Clase-Programacion-1\\Facturita.Core\\Facturita.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
+  ],
   "logs": []
 }

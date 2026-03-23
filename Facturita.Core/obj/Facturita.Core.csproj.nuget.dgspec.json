@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "/Users/joerlynmorfe/programacion_1/Programacion_I_2/Facturita.Core/Facturita.Core.csproj": {}
+    "C:\\Users\\victo\\OneDrive\\Documents\\Programs\\clase\\Programacion I\\Clase-Programacion-1\\Facturita.Core\\Facturita.Core.csproj": {}
   },
   "projects": {
-    "/Users/joerlynmorfe/programacion_1/Programacion_I_2/Facturita.Core/Facturita.Core.csproj": {
+    "C:\\Users\\victo\\OneDrive\\Documents\\Programs\\clase\\Programacion I\\Clase-Programacion-1\\Facturita.Core\\Facturita.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/joerlynmorfe/programacion_1/Programacion_I_2/Facturita.Core/Facturita.Core.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\OneDrive\\Documents\\Programs\\clase\\Programacion I\\Clase-Programacion-1\\Facturita.Core\\Facturita.Core.csproj",
         "projectName": "Facturita.Core",
-        "projectPath": "/Users/joerlynmorfe/programacion_1/Programacion_I_2/Facturita.Core/Facturita.Core.csproj",
-        "packagesPath": "/Users/joerlynmorfe/.nuget/packages/",
-        "outputPath": "/Users/joerlynmorfe/programacion_1/Programacion_I_2/Facturita.Core/obj/",
+        "projectPath": "C:\\Users\\victo\\OneDrive\\Documents\\Programs\\clase\\Programacion I\\Clase-Programacion-1\\Facturita.Core\\Facturita.Core.csproj",
+        "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\victo\\OneDrive\\Documents\\Programs\\clase\\Programacion I\\Clase-Programacion-1\\Facturita.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/joerlynmorfe/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -33,7 +32,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -49,12 +54,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "x18H8hnreCChwDL57tf6sZd6OUgYKIB/vDU+Y84OzuVv/tYY8w1zDi0jhvw7ym8XFHVa1i9Ddn1Jwt/qaNKK9A==",
+  "dgSpecHash": "EmtSfFMGHlc=",
   "success": true,
-  "projectFilePath": "/Users/joerlynmorfe/programacion_1/Programacion_I_2/POO_Pilares/POO_Pilares.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\victo\\OneDrive\\Documents\\Programs\\clase\\Programacion I\\Clase-Programacion-1\\POO_Pilares\\POO_Pilares.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+  ],
   "logs": []
 }
